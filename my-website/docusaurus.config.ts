@@ -13,7 +13,9 @@ const config: Config = {
 
   // Vercel-friendly config - using localhost as placeholder (will be overridden by Vercel)
   url: 'http://localhost:3000',
-  baseUrl: '/',
+  // baseUrl: '/',
+  baseUrl: '/final-book/',
+
 
   onBrokenLinks: 'throw',
 
