@@ -11,8 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  // ✅ Vercel-friendly config
-  url: 'https://physical-ai-humanoid-robotics-book-smoky.vercel.app',
+  // Vercel-friendly config - using placeholder that works with any deployment URL
+  url: 'https://',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
