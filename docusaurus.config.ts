@@ -11,7 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'http://localhost:3000', // Placeholder - Vercel will use the actual deployment URL
+  // ✅ Vercel-friendly config
+  url: 'https://physical-ai-humanoid-robotics-book-smoky.vercel.app',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
@@ -30,7 +31,7 @@ const config: Config = {
           editUrl:
             'https://github.com/QadirKhan9/Physical-AI-Humanoid-Robotics-Book/edit/main/',
         },
-        blog: false, // book project hai, blog off
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
