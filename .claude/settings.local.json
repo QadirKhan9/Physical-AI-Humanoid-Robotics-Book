@@ -3,7 +3,9 @@
     "allow": [
       "Bash(dir)",
       "Bash(dir my-website)",
-      "Bash(mkdir -p \"my-website\\docs\\book\")"
+      "Bash(mkdir -p \"my-website\\docs\\book\")",
+      "Bash(git commit -m \"Fix Docusaurus config: update URL for Vercel deployment\")",
+      "Bash(git push origin main)"
     ]
   }
 }
