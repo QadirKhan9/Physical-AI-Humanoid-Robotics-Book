@@ -12,7 +12,7 @@ const config: Config = {
   },
 
   // ✅ Vercel-friendly config
-  url: 'https://physical-ai-humanoid-robotics-book.vercel.app',
+  url: 'https://physical-ai-humanoid-robotics-book-smoky.vercel.app',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
