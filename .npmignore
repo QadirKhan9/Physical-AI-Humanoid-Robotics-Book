@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.docusaurus/
+.git/
+.gitignore
+README.md
+package-lock.json
+vercel.json
+Github_Setup.bat
+Github_CLI_GUIDE.md
