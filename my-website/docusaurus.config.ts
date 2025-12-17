@@ -19,6 +19,7 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
 
+  
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
