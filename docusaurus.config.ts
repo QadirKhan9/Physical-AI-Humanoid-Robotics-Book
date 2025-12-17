@@ -11,8 +11,7 @@ const config: Config = {
     v4: true,
   },
 
-  // ✅ VERCEL URL
-  url: 'https://physical-ai-humanoid-robotics-book-coral.vercel.app',
+  url: 'http://localhost:3000', // Placeholder - Vercel will use the actual deployment URL
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
