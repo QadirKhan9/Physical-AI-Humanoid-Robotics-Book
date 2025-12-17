@@ -11,8 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  // Vercel-friendly config - using placeholder that works with any deployment URL
-  url: 'https://',
+  // Vercel-friendly config - using localhost as placeholder (will be overridden by Vercel)
+  url: 'http://localhost:3000',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
