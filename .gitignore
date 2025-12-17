@@ -8,6 +8,9 @@
 .docusaurus
 .cache-loader
 
+# Node.js / Docusaurus
+node_modules/
+
 # Misc
 .DS_Store
 .env.local
